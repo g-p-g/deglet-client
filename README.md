@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/g-p-g/deglet-client
-cd deget-client
+cd deglet-client
 npm install
 ```
 
