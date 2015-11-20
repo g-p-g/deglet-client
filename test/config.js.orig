@@ -1,0 +1,8 @@
+/**
+ * Copy this file to config.js and edit it to adapt to your environment.
+ */
+
+module.exports = {
+  TEST_API_URL: 'http://localhost:5000',
+  TEST_BWS_URL: 'http://localhost:3232/bws/api'
+};
