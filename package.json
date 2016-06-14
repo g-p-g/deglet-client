@@ -23,7 +23,7 @@
     "bitcore-lib": "^0.13.7",
     "bitcore-message": "^1.0.2",
     "bitcore-mnemonic": "^1.0.1",
-    "bitcore-wallet-client": "^1.1.7",
+    "bitcore-wallet-client": "^2.7.0",
     "json-stable-stringify": "^1.0.0",
     "object-assign": "^4.0.1",
     "sjcl": "^1.0.3",
