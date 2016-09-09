@@ -26,7 +26,7 @@
     "bitcore-wallet-client": "^1.1.7",
     "json-stable-stringify": "^1.0.0",
     "object-assign": "^4.0.1",
-    "sjcl": "^1.0.3",
+    "sjcl": "^1.0.5",
     "superagent": "^1.4.0"
   },
   "devDependencies": {
