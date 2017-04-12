@@ -22,7 +22,7 @@
     "base64-url": "^1.2.1",
     "bitcore-lib": "^0.13.7",
     "bitcore-message": "^1.0.2",
-    "bitcore-mnemonic": "^1.0.1",
+    "bitcore-mnemonic": "^1.2.5",
     "bitcore-wallet-client": "^1.1.7",
     "json-stable-stringify": "^1.0.0",
     "object-assign": "^4.0.1",
